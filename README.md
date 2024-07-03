@@ -47,3 +47,6 @@ DB_DATABASE=Database name
   - `POST /saveFood.php`: Saves a new food.
   - `PUT /updateFood.php`: Upgrade an existing food.
   - `DELETE /deleteFood.php?id=id`: Delete a specific food by its ID.
+  ```
+## Author
+- [@KevinJp21](https://github.com/KevinJp21)
